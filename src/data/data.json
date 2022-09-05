@@ -1,0 +1,17 @@
+[
+  {
+    "_comment1": "to add cover you have to add picture in issues then copy that link and add to the cover",
+    "id":"one",
+    "cover": "",
+    "title": "PORTFOLIO",
+    "description": "React, JSX, SCSS",
+    "url": "https://mi-storeclone.netlify.app/"
+  },
+  {
+    "id":"two",
+    "cover": "https://user-images.githubusercontent.com/85667548/187565046-ecd8e445-3665-4446-baa0-508bf3b0380c.png",
+    "title": "Mi Store Clone",
+    "description": "React, JSX, CSS",
+    "url": "https://mi-storeclone.netlify.app/"
+  }
+]
