@@ -36,7 +36,7 @@
 ✔️ Contact Me
 
 
-To view a live example, // **[click here](https://savvyshivam.vercel.app/)**
+To view a live example, **[click here](https://savvyshivam.vercel.app/)**
 
 ## Tools Used 🛠️
 
