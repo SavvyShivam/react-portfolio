@@ -1,25 +1,28 @@
+
+
 <div align="center">
 
 <h1>Personal Portfolio Website </h1>
+ 
 
 <h2>
-  <a href="https://nidhikumari.vercel.app/">nidhikumari.vercel.app</a>
+  <a href="https://savvyshivam.vercel.app/">savvyshivam.vercel.app</a>
 </h2>
 
+![portfolio website image](https://user-images.githubusercontent.com/85667548/188468172-cfade8b8-cdd1-4fe9-8246-59419f65b1db.png)
 
 <div align="center">
-  <a href="https://nidhikumari.vercel.app/">
-<img width="2277" alt="Group 1" src="https://user-images.githubusercontent.com/77065920/177051557-889ef12c-2d60-4256-a9a2-4c18356a77be.png">
+  <a href="https://savvyshivam.vercel.app/">
   </a>
 </div>
   </div>
-⭐ Star this repo on GitHub — it helps!
+  
 
 ## Features 📋
 
 ⚡️ Valid REACT & SCSS \
 ⚡️ Custom 3D CSS animations\
-⚡️ Aimated Letters on hover\
+⚡️ Animated Letters on hover\
 ⚡️ Interactive map view\
 ⚡️ Functional Contact Form
   
@@ -34,7 +37,7 @@
 ✔️ Contact Me
 
 
-To view a live example, **[click here](https://nidhikumari.vercel.app/)**
+To view a live example, **[click here](https://savvyshivam.vercel.app/)**
 
 ## Tools Used 🛠️
 
@@ -45,4 +48,5 @@ To view a live example, **[click here](https://nidhikumari.vercel.app/)**
 - [**Animate CSS**](https://animate.style/) - To add animations.
 
 <br/>
+
 
