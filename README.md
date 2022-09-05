@@ -1,6 +1,9 @@
+
+
 <div align="center">
 
 <h1>Personal Portfolio Website </h1>
+ 
 
 <h2>
   <a href="https://savvyshivam.vercel.app/">savvyshivam.vercel.app</a>
@@ -9,13 +12,10 @@
 
 <div align="center">
   <a href="https://savvyshivam.vercel.app/">
-![Screenshot (377)](https://user-images.githubusercontent.com/85667548/188464103-2bdc137a-f55d-45e1-b74a-0eec63ef5751.png)
-
-
   </a>
 </div>
   </div>
-⭐ Star this repo on GitHub — it helps!
+
 
 ## Features 📋
 
@@ -47,4 +47,5 @@ To view a live example, // **[click here](https://savvyshivam.vercel.app/)**
 - [**Animate CSS**](https://animate.style/) - To add animations.
 
 <br/>
+
 
