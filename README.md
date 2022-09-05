@@ -19,7 +19,7 @@
 
 ⚡️ Valid REACT & SCSS \
 ⚡️ Custom 3D CSS animations\
-⚡️ Aimated Letters on hover\
+⚡️ Animated Letters on hover\
 ⚡️ Interactive map view\
 ⚡️ Functional Contact Form
   
@@ -34,7 +34,7 @@
 ✔️ Contact Me
 
 
-To view a live example, // **[click here](https://nidhikumari.vercel.app/)**
+To view a live example, // **[click here](https://savvyshivam.vercel.app/)**
 
 ## Tools Used 🛠️
 
