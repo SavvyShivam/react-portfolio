@@ -9,7 +9,8 @@
 
 <div align="center">
   <a href="https://savvyshivam.vercel.app/">
-<img> ![Screenshot (377)](https://user-images.githubusercontent.com/85667548/188463723-6dd4e98c-f29e-419c-aab8-86d72a3f3bc2.png) <img>
+![Screenshot (377)](https://user-images.githubusercontent.com/85667548/188464103-2bdc137a-f55d-45e1-b74a-0eec63ef5751.png)
+
 
   </a>
 </div>
