@@ -60,7 +60,7 @@ const Skills = () => {
             Visit my
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/shivam-kumar-091831190/"
+              href="https://www.linkedin.com/in/savvyshivam/"
             >
               {" "}
               LinkedIn{" "}
